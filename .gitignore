@@ -1,4 +1,4 @@
-# Python-generated files
+#Python-generated files
 __pycache__/
 *.py[oc]
 build/
@@ -6,7 +6,7 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
+#Virtual environments
 .venv
 
 #Platform-specific
@@ -18,3 +18,6 @@ Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
+
+#Project
+.env
